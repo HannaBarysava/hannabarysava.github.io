@@ -16,8 +16,6 @@ I'll be happy to get in touch!
 
 ## Certifications
 
-You can find a list of my certifications below.
-
 * [Az-104 - Azure Associate](https://www.credly.com/badges/eab8342a-89bb-425b-9523-d73c323b6989/public_url)
 * [Az-400 - Azure DevOps Engineer](https://www.credly.com/badges/5b23d4a8-acbb-4fcd-99a6-5f9f385fb0cd/public_url)
 * [Az-305 - Azure Solution Architect](https://www.credly.com/badges/41bd6013-1971-4e10-a738-b8ee9dd5bff1/public_url)
