@@ -9,7 +9,7 @@ title: CV
 
 ## SUMMARY
 
-Hi! I am a Senior Systems Engineer with 5 years of experience working with DevOps and SRE tools and principles. During this time I've been working a lot with Cloud technologies (mainly Azure Cloud), Kubernetes, different CI/CD tools and scripting languages (python, bash, powershell), as well as many other things. 
+Hi! I am a Senior Systems Engineer with 7 years of experience working with DevOps and SRE tools and principles. During this time I've been working a lot with Cloud technologies (mainly Azure Cloud), Kubernetes, different CI/CD tools and scripting languages (python, bash, powershell), as well as many other things. 
 
 You can click [here](/cv.pdf) to download a full print version of my CV.
 I'll be happy to get in touch!
